@@ -1,6 +1,6 @@
 # EDITABLE AUTHORS TABLE
 ---
-### 1. Application Snapshot
+### 1. Application Snapshot :: edit-dash-board-api.vercel.app
 ![Application Snapshot](https://i.ibb.co/SBRGKDt/Screenshot-2025-01-02-154140.png)
 
 ---
