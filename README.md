@@ -1,6 +1,7 @@
 # EDITABLE AUTHORS TABLE
+[Live Link](https://edit-dash-board-api.vercel.app/)
 ---
-### 1. Application Snapshot :: edit-dash-board-api.vercel.app
+### 1. Application Snapshot 
 ![Application Snapshot](https://i.ibb.co/SBRGKDt/Screenshot-2025-01-02-154140.png)
 
 ---
